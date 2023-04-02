@@ -1,0 +1,10 @@
+img {
+  max-width: 100%;
+  min-height: 1em;
+  height: auto;
+}
+
+figure img {
+  width: inherit !important;
+  background-color: white;
+}
