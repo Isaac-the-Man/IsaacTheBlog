@@ -1,7 +1,7 @@
 ---
 title: "Normalization Strategies: Batch vs Layer vs Instance vs Group Norm"
 date: 2023-03-31T22:41:16+08:00
-draft: true
+draft: false
 author: "IsaacTheMan"
 tags: ["concepts", "normalization"]
 categories: ["machine learning"]

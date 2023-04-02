@@ -1,7 +1,7 @@
 ---
 title: "How Multi Channel Convolution Works"
 date: 2023-03-30T21:38:37+08:00
-draft: true
+draft: false
 author: "IsaacTheMan"
 tags: ["cv", "concepts", "cnn"]
 categories: ["machine learning"]
