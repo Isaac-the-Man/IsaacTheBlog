@@ -1,4 +1,4 @@
-baseURL = "https://64299be980015700086ffae8--isaac-the-blog.netlify.app/"
+baseURL = "https://isaac-the-man.dev"
 languageCode = "en-us"
 title = "IsaacTheBlog"
 theme = "loveit"
@@ -8,7 +8,7 @@ theme = "loveit"
 [author]
   name = "Yu-Kai \"Steven\" Wang"
   email = "stevenjust4work@gmail.com"
-  link = ""
+  link = "https://isaac-the-man.dev"
 
 # Menu config
 # 菜单配置
