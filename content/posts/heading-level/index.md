@@ -2,7 +2,6 @@
 title: "Demo: Heading Level"
 date: 2023-04-02T12:19:51+08:00
 draft: true
-author: "IsaacTheMan"
 tags: []
 categories: ["demo"]
 featuredImage: '/images/lock_circuit.png'

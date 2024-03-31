@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-author: "IsaacTheMan"
+author: "Yu-Kai \"Steven\" Wang"
 tags: []
 categories: []
 featuredImage: 'lock_circuit.png'

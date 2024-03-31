@@ -2,7 +2,6 @@
 title: "Demo: Image Shortcodes"
 date: 2023-04-01T11:22:19+08:00
 draft: true
-author: "IsaacTheMan"
 tags: []
 categories: ["demo"]
 featuredImage: '/images/lock_circuit.png'

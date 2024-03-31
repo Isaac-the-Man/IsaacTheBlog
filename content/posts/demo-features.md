@@ -2,7 +2,6 @@
 title: "Demo: Demo Features"
 date: 2023-03-25T12:45:21+08:00
 draft: true
-author: IsaacTheMan
 tags: ['python', 'javascript']
 categories: ['demo']
 featuredImage: 'images/lock_circuit.png'
