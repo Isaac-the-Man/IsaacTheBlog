@@ -14,6 +14,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/how-multi-channel-convolution-works/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/volume-of-hyperspheres/index.md"
         }
     ]
 }
