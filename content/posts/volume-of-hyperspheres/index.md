@@ -1,7 +1,7 @@
 ---
 title: "Volume of a Hypersphere (N-Ball) is Weird..."
 date: 2024-04-07T12:03:50+08:00
-draft: true
+draft: false
 author: "Yu-Kai \"Steven\" Wang"
 tags: [geometry, math, simulation]
 categories: [Misc]
