@@ -19,6 +19,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/volume-of-hyperspheres/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/sampling-in-polar-coordinate/index.md"
         }
     ]
 }

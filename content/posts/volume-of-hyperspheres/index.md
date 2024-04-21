@@ -4,8 +4,8 @@ date: 2024-04-07T12:03:50+08:00
 draft: false
 author: "Yu-Kai \"Steven\" Wang"
 tags: [geometry, math, simulation]
-categories: [Misc]
-featuredImage: '/images/three_body.jpg'
+categories: [data science]
+featuredImage: '/images/three_body.png'
 ---
 
 This week I was watching Netflix's latest sci-fi adaptation of *Three Body Problem* (SPOILER ALERT). The story revealed how the San-Ti alien race built the *Sophon*, a supercomputer the size and mass of a single proton, to sabotage the scientific advancement on Earth. While the TV series didn't dive too deep into the methodology behind it, the novel (strongly recommend!) described how the San-Ti engineers were able to take advantage of the dimensions of these particles. The Sophon was originally a regular proton (11D by default) "unfolded" into a planet-sized 2D plane, which allowed the alien scientists to etch a humongous supercomputer circuit onto its surface. This planet-sized supercomputer proton is then "folded" back into its original form with 11 dimensions, making it virtually impossible to detect since it has the same size and mass as any other proton. *How cool is that?*
