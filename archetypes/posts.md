@@ -5,5 +5,5 @@ draft: true
 author: "Yu-Kai \"Steven\" Wang"
 tags: []
 categories: []
-featuredImage: 'lock_circuit.png'
+featuredImage: '/images/lock_circuit.png'
 ---
