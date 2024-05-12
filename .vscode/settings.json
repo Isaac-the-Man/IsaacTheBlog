@@ -24,6 +24,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/sampling-in-polar-coordinate/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/navigating-directories-with-powershell-script/index.md"
         }
     ]
 }
