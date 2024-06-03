@@ -29,6 +29,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/navigating-directories-with-powershell-script/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/get-structured-output-with-function-calling-from-google-gemini/index.md"
         }
     ]
 }
