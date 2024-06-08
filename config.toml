@@ -201,6 +201,18 @@ theme = "loveit"
     [params.page.math]
       enable = true
 
+    # Comment config
+    # 评论系统设置
+    [params.page.comment]
+      enable = true
+      # Disqus comment config (https://disqus.com/)
+      # Disqus 评论系统设置 (https://disqus.com/)
+      [params.page.comment.disqus]
+        enable = true
+        # Disqus shortname to use Disqus in posts
+        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        shortname = "isaa-the-man-dev"
+
   # Cookie consent config
   # Cookie 许可配置
   [params.cookieconsent]
