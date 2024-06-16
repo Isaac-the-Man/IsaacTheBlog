@@ -34,6 +34,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/get-structured-output-with-function-calling-from-google-gemini/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/connect-with-homeserver-remotely-via-tailscale/index.md"
         }
     ]
 }
