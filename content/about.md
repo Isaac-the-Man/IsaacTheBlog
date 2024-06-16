@@ -4,7 +4,7 @@ date: 2023-03-25T12:10:14+08:00
 draft: false
 ---
 
-![IsaacTheMan](/images/avatar.png "Cyborg Isaac Newton embedded with electronics, profile picture, generated with Midjourney")
+{{< image src="/images/lab_guy.png" caption="What I cannot create, I do not understand." >}}
 
 ## Yu-Kai "Steven" Wang
 
@@ -19,3 +19,10 @@ Oh, I also build cool websites.
 ### What I cannot create, I do not understand
 
 Richard Feynman, 1988. The best way to learn about something is to get your hands dirty. This blog documents things I've learned and built. Discussions are welcomed!
+
+### Contact Me
+
+Currently based in Taiwan (GMT+8), feel free to drop by to say hi!
+
+- Email: stevenjust4work@gmail.com
+- Linkedin: https://www.linkedin.com/in/yu-kai-wang-b7457b246/
