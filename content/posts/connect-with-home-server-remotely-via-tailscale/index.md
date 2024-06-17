@@ -83,6 +83,32 @@ Read more about exit node [here](https://tailscale.com/kb/1103/exit-nodes).
 Save and apply the settings, and wait for the docker image to install. Once finished, go to the docker logs and you should see a Tailscale URL. Paste it in your browser and it should prompt you 
 to add your Unraid server to the VPN.
 
+Next, we'll have to add the Tailscale network interface to unraid. Go to Settings -> Network Settings, find the "Interface Extra" section and add "tailscale0" to the include listening interfaces.
+Click apply to save changes.
+
+{{< image src="./images/unraid_interface.png" caption="Settings -> Network Settings -> Interface Extra" >}}
+
+This extra network interface we just added will have to be re-applied after every reboot. To automate this process add the following script into `/boot/config/go`.
+
+```bash
+### tailscale
+# reload services after starting docker with 20 seconds grace period to allow starting up containers
+event=/usr/local/emhttp/webGui/event/docker_started
+mkdir -p $event
+cat <<- 'EOF' >$event/reload_services
+#!/bin/bash
+echo 'sleep 20;/usr/local/emhttp/webGui/scripts/reload_services' | at -M now 2>/dev/null
+EOF
+chmod +x $event/reload_services
+```
+
+For the final step, run this script in the terminal to allow port forwarding.
+```bash
+echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.conf
+echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.conf
+sudo sysctl -p /etc/sysctl.conf
+```
+
 #### Step 2: Install Tailscale on other devices
 
 To add other devices to your VPN, simply click "add device" on your Tailscale home page and follow the steps to download the device-specific client. 

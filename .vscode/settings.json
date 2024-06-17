@@ -39,6 +39,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/connect-with-homeserver-remotely-via-tailscale/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/connect-with-home-server-remotely-via-tailscale/index.md"
         }
     ]
 }
