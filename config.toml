@@ -223,6 +223,17 @@ theme = "loveit"
       message = ""
       dismiss = ""
       link = ""
+  
+  # Analytics config
+  # 网站分析配置
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-07QHHXQR9B"
+      # whether to anonymize IP
+      # 是否匿名化用户 IP
+      anonymizeIP = true
 
 [markup]
   [markup.highlight]
