@@ -49,6 +49,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/reinforcement-learning-mountain-car/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "content/posts/is-the-monty-hall-problem-real/index.md"
         }
     ]
 }
