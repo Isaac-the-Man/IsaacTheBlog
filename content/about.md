@@ -22,7 +22,7 @@ Richard Feynman, 1988. The best way to learn about something is to get your hand
 
 ### Contact Me
 
-Currently based in Taiwan (GMT+8), feel free to drop by to say hi!
+Currently based in Boston (EST), feel free to drop by to say hi!
 
 - Email: stevenjust4work@gmail.com
 - Linkedin: https://www.linkedin.com/in/yu-kai-wang-b7457b246/
